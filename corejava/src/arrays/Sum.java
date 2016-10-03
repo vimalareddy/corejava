@@ -35,6 +35,9 @@ public class Sum {
 		} else {
 			System.out.println("the  number is not prime:" + n);
 		}
+
+		System.out.println("hai");
+		System.out.println("hai");
 	}
 
 }
