@@ -4,6 +4,7 @@ public class Sum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Hi");
 		int a[] = { 1, 2, 3, 4, 5, 6 };
 		System.out.println(a.length);
 		int sum = 0;
@@ -36,8 +37,6 @@ public class Sum {
 			System.out.println("the  number is not prime:" + n);
 		}
 
-		System.out.println("hai");
-		System.out.println("hai");
 	}
 
 }
